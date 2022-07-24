@@ -2,6 +2,6 @@
 
 السؤال التاني : secondtask.js
 
-السؤال الثالت : thirdtask.js
+السؤال الثالت : lastask/index.html
 
 # regards ..
